@@ -28,7 +28,7 @@
   <text x="20" y="30" class="title">⚡ Languages Used</text>
 
   <!-- Last updated -->
-  <text x="475" y="30" class="updated" text-anchor="end">Updated Apr 2, 2026</text>
+  <text x="475" y="30" class="updated" text-anchor="end">Updated Apr 3, 2026</text>
 
   <!-- Stacked bar background track -->
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
@@ -41,12 +41,12 @@
     <rect x="436.46" y="52" width="21.66" height="10" fill="#e34c26" />
     <rect x="458.13" y="52" width="9.37" height="10" fill="#563d7c" />
     <rect x="467.49" y="52" width="4.36" height="10" fill="#AA6746" />
-    <rect x="471.85" y="52" width="2.00" height="10" fill="#3572A5" />
-    <rect x="473.85" y="52" width="2.00" height="10" fill="#844FBA" />
-    <rect x="475.85" y="52" width="2.00" height="10" fill="#b07219" />
-    <rect x="477.85" y="52" width="2.00" height="10" fill="#8b949e" />
-    <rect x="479.85" y="52" width="2.00" height="10" fill="#89e051" />
-    <rect x="481.85" y="52" width="2.00" height="10" fill="#384d54" />
+    <rect x="471.86" y="52" width="2.00" height="10" fill="#3572A5" />
+    <rect x="473.86" y="52" width="2.00" height="10" fill="#844FBA" />
+    <rect x="475.86" y="52" width="2.00" height="10" fill="#b07219" />
+    <rect x="477.86" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="479.86" y="52" width="2.00" height="10" fill="#89e051" />
+    <rect x="481.86" y="52" width="2.00" height="10" fill="#384d54" />
   </g>
 
   <!-- Legend -->
