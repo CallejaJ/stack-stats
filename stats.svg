@@ -28,19 +28,19 @@
   <text x="20" y="30" class="title">⚡ Languages Used</text>
 
   <!-- Last updated -->
-  <text x="475" y="30" class="updated" text-anchor="end">Updated Jun 8, 2026</text>
+  <text x="475" y="30" class="updated" text-anchor="end">Updated Jun 9, 2026</text>
 
   <!-- Stacked bar background track -->
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
 
   <!-- Stacked bar segments (clipped to rounded track) -->
   <g clip-path="url(#bar-clip)">
-    <rect x="20.00" y="52" width="292.81" height="10" fill="#3178c6" />
-    <rect x="312.81" y="52" width="43.95" height="10" fill="#f1e05a" />
-    <rect x="356.76" y="52" width="43.83" height="10" fill="#AA6746" />
-    <rect x="400.59" y="52" width="38.05" height="10" fill="#e34c26" />
-    <rect x="438.64" y="52" width="24.55" height="10" fill="#ff5a03" />
-    <rect x="463.19" y="52" width="8.50" height="10" fill="#563d7c" />
+    <rect x="20.00" y="52" width="292.79" height="10" fill="#3178c6" />
+    <rect x="312.79" y="52" width="43.92" height="10" fill="#f1e05a" />
+    <rect x="356.70" y="52" width="43.80" height="10" fill="#AA6746" />
+    <rect x="400.50" y="52" width="38.02" height="10" fill="#e34c26" />
+    <rect x="438.52" y="52" width="24.53" height="10" fill="#ff5a03" />
+    <rect x="463.05" y="52" width="8.64" height="10" fill="#563d7c" />
     <rect x="471.69" y="52" width="2.00" height="10" fill="#3572A5" />
     <rect x="473.69" y="52" width="2.00" height="10" fill="#844FBA" />
     <rect x="475.69" y="52" width="2.00" height="10" fill="#b07219" />
@@ -59,7 +59,7 @@
     <g transform="translate(171.66666666666666, 76)">
       <circle cx="5" cy="5" r="5" fill="#f1e05a" />
       <text x="14" y="9" class="lang-name">JavaScript</text>
-      <text x="14" y="9" class="lang-pct" dx="72">9.66%</text>
+      <text x="14" y="9" class="lang-pct" dx="72">9.65%</text>
     </g>
     <g transform="translate(323.3333333333333, 76)">
       <circle cx="5" cy="5" r="5" fill="#AA6746" />
@@ -74,12 +74,12 @@
     <g transform="translate(171.66666666666666, 98)">
       <circle cx="5" cy="5" r="5" fill="#ff5a03" />
       <text x="14" y="9" class="lang-name">Astro</text>
-      <text x="14" y="9" class="lang-pct" dx="36">5.40%</text>
+      <text x="14" y="9" class="lang-pct" dx="36">5.39%</text>
     </g>
     <g transform="translate(323.3333333333333, 98)">
       <circle cx="5" cy="5" r="5" fill="#563d7c" />
       <text x="14" y="9" class="lang-name">CSS</text>
-      <text x="14" y="9" class="lang-pct" dx="21.6">1.87%</text>
+      <text x="14" y="9" class="lang-pct" dx="21.6">1.90%</text>
     </g>
     <g transform="translate(20, 120)">
       <circle cx="5" cy="5" r="5" fill="#3572A5" />
