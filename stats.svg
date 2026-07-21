@@ -28,7 +28,7 @@
   <text x="20" y="30" class="title">⚡ Languages Used</text>
 
   <!-- Last updated -->
-  <text x="475" y="30" class="updated" text-anchor="end">Updated Jul 20, 2026</text>
+  <text x="475" y="30" class="updated" text-anchor="end">Updated Jul 21, 2026</text>
 
   <!-- Stacked bar background track -->
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
@@ -37,10 +37,10 @@
   <g clip-path="url(#bar-clip)">
     <rect x="20.00" y="52" width="288.33" height="10" fill="#3178c6" />
     <rect x="308.33" y="52" width="48.40" height="10" fill="#f1e05a" />
-    <rect x="356.72" y="52" width="41.89" height="10" fill="#AA6746" />
+    <rect x="356.73" y="52" width="41.89" height="10" fill="#AA6746" />
     <rect x="398.61" y="52" width="38.81" height="10" fill="#e34c26" />
     <rect x="437.42" y="52" width="25.79" height="10" fill="#ff5a03" />
-    <rect x="463.21" y="52" width="8.43" height="10" fill="#563d7c" />
+    <rect x="463.21" y="52" width="8.42" height="10" fill="#563d7c" />
     <rect x="471.64" y="52" width="2.00" height="10" fill="#3572A5" />
     <rect x="473.64" y="52" width="2.00" height="10" fill="#844FBA" />
     <rect x="475.64" y="52" width="2.00" height="10" fill="#8b949e" />
