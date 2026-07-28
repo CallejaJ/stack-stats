@@ -28,17 +28,17 @@
   <text x="20" y="30" class="title">⚡ Languages Used</text>
 
   <!-- Last updated -->
-  <text x="475" y="30" class="updated" text-anchor="end">Updated Jul 27, 2026</text>
+  <text x="475" y="30" class="updated" text-anchor="end">Updated Jul 28, 2026</text>
 
   <!-- Stacked bar background track -->
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
 
   <!-- Stacked bar segments (clipped to rounded track) -->
   <g clip-path="url(#bar-clip)">
-    <rect x="20.00" y="52" width="287.02" height="10" fill="#3178c6" />
-    <rect x="307.02" y="52" width="48.51" height="10" fill="#f1e05a" />
-    <rect x="355.52" y="52" width="41.76" height="10" fill="#AA6746" />
-    <rect x="397.29" y="52" width="38.70" height="10" fill="#e34c26" />
+    <rect x="20.00" y="52" width="286.99" height="10" fill="#3178c6" />
+    <rect x="306.99" y="52" width="48.50" height="10" fill="#f1e05a" />
+    <rect x="355.50" y="52" width="41.76" height="10" fill="#AA6746" />
+    <rect x="397.26" y="52" width="38.74" height="10" fill="#e34c26" />
     <rect x="435.99" y="52" width="27.26" height="10" fill="#ff5a03" />
     <rect x="463.25" y="52" width="8.40" height="10" fill="#563d7c" />
     <rect x="471.65" y="52" width="2.00" height="10" fill="#3572A5" />
@@ -54,7 +54,7 @@
     <g transform="translate(20, 76)">
       <circle cx="5" cy="5" r="5" fill="#3178c6" />
       <text x="14" y="9" class="lang-name">TypeScript</text>
-      <text x="14" y="9" class="lang-pct" dx="72">63.08%</text>
+      <text x="14" y="9" class="lang-pct" dx="72">63.07%</text>
     </g>
     <g transform="translate(171.66666666666666, 76)">
       <circle cx="5" cy="5" r="5" fill="#f1e05a" />
