@@ -28,19 +28,19 @@
   <text x="20" y="30" class="title">⚡ Languages Used</text>
 
   <!-- Last updated -->
-  <text x="475" y="30" class="updated" text-anchor="end">Updated Oct 7, 2026</text>
+  <text x="475" y="30" class="updated" text-anchor="end">Updated Oct 8, 2026</text>
 
   <!-- Stacked bar background track -->
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
 
   <!-- Stacked bar segments (clipped to rounded track) -->
   <g clip-path="url(#bar-clip)">
-    <rect x="20.00" y="52" width="282.91" height="10" fill="#3178c6" />
-    <rect x="302.91" y="52" width="46.60" height="10" fill="#f1e05a" />
-    <rect x="349.51" y="52" width="45.09" height="10" fill="#e34c26" />
-    <rect x="394.60" y="52" width="40.82" height="10" fill="#AA6746" />
+    <rect x="20.00" y="52" width="282.93" height="10" fill="#3178c6" />
+    <rect x="302.93" y="52" width="46.59" height="10" fill="#f1e05a" />
+    <rect x="349.52" y="52" width="45.09" height="10" fill="#e34c26" />
+    <rect x="394.61" y="52" width="40.82" height="10" fill="#AA6746" />
     <rect x="435.43" y="52" width="26.66" height="10" fill="#ff5a03" />
-    <rect x="462.09" y="52" width="9.68" height="10" fill="#563d7c" />
+    <rect x="462.08" y="52" width="9.68" height="10" fill="#563d7c" />
     <rect x="471.76" y="52" width="2.00" height="10" fill="#3572A5" />
     <rect x="473.76" y="52" width="2.00" height="10" fill="#844FBA" />
     <rect x="475.76" y="52" width="2.00" height="10" fill="#8b949e" />
